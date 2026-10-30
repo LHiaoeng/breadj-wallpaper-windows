@@ -22,6 +22,6 @@ Blocked by:
 
 已完成只读一手源码调查。公开分页已有基础能力；未找到生产收藏接口，认证测试中的模拟路由不能当现有业务。Windows 可复用 HTTP 下载和媒体导入能力，远端直链不适用图库 ZIP 流程；来源与远端 ID 的持久映射、同 ID 内容变更及最小接口缺口交由后续决策票定案。
 
-成果：[公开目录与本地使用调查](../../../research/client-wallpaper-v1/catalog-local-seams.md)。独立研究分支：[目录与本地接入调查成果](https://github.com/LHiaoeng/breadj-wallpaper-windows/blob/b3262c72a6c59bb30d7570376813d5fd28b52488/research/client-wallpaper-v1/catalog-local-seams.md)，分支 research/client-wallpaper-v1-catalog-local-seams；已推送，不开 PR、不合并。
+成果：[公开目录与本地使用调查](../../../research/client-wallpaper-v1/catalog-local-seams.md)。报告已随提交 `140b1ded` 纳入 `codex/client-wallpaper-v1`；按用户要求统一保存到该分支，原独立调查分支已清理。
 
 未运行应用、数据库、媒体下载或测试；真实部署返回及媒体兼容性仍未知。

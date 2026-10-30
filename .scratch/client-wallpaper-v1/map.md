@@ -15,6 +15,7 @@ Labels: wayfinder:map
 - 本地票位于 issues/，标题即名称。Type/Labels 表示类型；未写 Status 表示未领取，开始前写 claimed，完成后写 resolved；依赖使用 Blocked by 的实际文件编号。仅选所有依赖 resolved 且未领取的票。
 - 研究允许并行；其他每次只解决一票。主 agent 统一写文件，子 agent 只读，不递归委派。研究成果由主 agent 保存到独立 research/ 分支并推送，不开 PR、不合并；票链接成果。
 - 已有 M0 进展是证据入口，需与源码核对，不因旧测试通过推定整个 M0 完成。
+- 用户于 2026-10-30 要求将账号边界和目录/本地使用两份调查报告统一保存到 `codex/client-wallpaper-v1` 并清理原调查分支；报告已纳入该分支的 `research/client-wallpaper-v1/`，以决策票中的仓库内链接为准。
 
 ## Decisions so far
 
